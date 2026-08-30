@@ -1,4 +1,4 @@
-local StorArm_t1 = {
+local storArm_t1 = {
 	fists,
 	watering can,
 	perch,
@@ -8,6 +8,4 @@ local StorArm_t1 = {
 	regular fishing rod,
 	prise de verrou,
 }
-
-
-return StorArm_t1
+return storArm_t1
