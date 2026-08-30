@@ -1,18 +1,18 @@
 local RARITY_GROUPS = {
-	[Color3.fromRGB(150, 150, 150)] = {
+	[Color3.fromRGB(190, 190, 190)] = {
 		"fists", "watering can", "perch", "bass", "salmon", "bandage", "regular fishing rod", "prise de verrou",
-		"glass"
+		"glass", "Bottle", "Bowling Pin", "mug", "rocher", "bidon de pulvérisation", "mop"
 	},
-	[Color3.fromRGB(0, 255, 247)] = {
+	[Color3.fromRGB(0, 0, 255)] = {
 		"storarm3", "p226", "découpeur", "poéle à frire", "axe", "regular pot", "corn seeds",
 		"regular fertilizer", "regular soil", "coelacanth", "ultimate fishing rod",
 		"advanced fishing rod", "sawnoff", "uzi", "hunting rifle", "brainrot slapper",
 		"emergency care kit", "clè", "lame de commutation", "balai en diamant", "glock",
-		"pre workout", "metal baseball bat", "wrench"
+		"pre workout", "metal baseball bat", "wrench", "butcher knife"
 	},
 	[Color3.fromRGB(0, 255, 0)] = {
 		"g3", "sunflower seeds", "northern pike", "dolphin fish", "pro fishing rod", "c9",
-		"marteau", "baseball bat", "énergie taureau", "sac de sang"
+		"marteau", "baseball bat", "énergie taureau", "sac de sang", "brick"
 	},
 	[Color3.fromRGB(179, 0, 255)] = {
 		"draco", "tomato seeds", "premium soil", "organic fertilizer", "tuna", "combat axe",
